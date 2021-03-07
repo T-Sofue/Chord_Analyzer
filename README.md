@@ -1,6 +1,7 @@
 # Chord_Analyzer
 run real time chord analyzer
-not very accurate
+
+not very accurate XD
 
 ## Version
 Python 3.X
